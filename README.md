@@ -5,6 +5,7 @@ This project is a Unity Example Game from the book [Introduction to Game Design,
 It is a physics-based casual game prototype, inspired by games such as [Angry birds](https://en.wikipedia.org/wiki/Angry_Birds), [Worms](https://en.wikipedia.org/wiki/Worms_(series)), 
 [Crossbows and Catapults](https://en.wikipedia.org/wiki/Crossbows_and_Catapults), [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)), and so on.
 
+You can play it [here!](https://shaman37.itch.io/prototype-mission-demolition)
 ## How to play
 
 Hovering your mouse over the slingshot will make it glow. This means you can now hold down the _left mouse button_ and drag it around to fire a projectile agains the castle on the other end of the map.
